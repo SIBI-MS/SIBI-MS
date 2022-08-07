@@ -5,22 +5,23 @@
 </h3>
 <!-- Typing SVG by 0xSebin - https://github.com/0xSebin/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/0xSebin/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student;Self-taught%20Techie;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/SIBI-MS/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student;Self-taught%20Techie;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 <br/>
 <p align="center">
-  <a href="https://github.com/0xSebin?tab=repositories&sort=stargazers">
+  <a href="https://github.com/SIBI-MS?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/SIBI-MS"/></a>
   <a href="https://github.com/SIBI-MS?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/SIBI-MS?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-## Streak stats
+##  Streak stats
 
 
 <p align="center">
-  <a href="https://skyline.github.com/SIBI-MS/2021">
-    <img title="Get streak stats for your profile at git.io/streak-stats" alt="SIBI-MS's streak" src="https://skyline.github.com/SIBI-MS/2021"/>
+  <a href="https://github.com/SIBI-MS/github-readme-streak-stats">
+    <img title=" Get streak stats for your profile at git.io/streak-stats" alt="SIBI-MS's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SIBI-MS&theme=monokai-metallian&hide_border=true"/>
+  
   
 
 
@@ -30,9 +31,9 @@
 
 <p>
     <a href="https://github.com/search?q=user%3A0xSebin+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3A0xSebin+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3A0xSebin+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3A0xSebin+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ASIBI-MS+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ASIBI-MS+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ASIBI-MS+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and libraries
