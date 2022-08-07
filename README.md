@@ -1,4 +1,5 @@
 <h3 align="center">
+  <h1 style="background-color:Green;">Welcome to Sibi's profile!</h1>
   Welcome to Sibi's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
@@ -14,12 +15,12 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/SIBI-MS?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-## 🔥 Streak stats
+## Streak stats
 
 
 <p align="center">
-  <a href="https://github.com/SIBI-MS/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SIBI-MS's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SIBI-MS&theme=monokai-metallian&hide_border=true"/>
+  <a href="https://skyline.github.com/SIBI-MS/2021">
+    <img title="Get streak stats for your profile at git.io/streak-stats" alt="SIBI-MS's streak" src="https://skyline.github.com/SIBI-MS/2021"/>
   
 
 
@@ -51,9 +52,6 @@
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
-    <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
-    <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
