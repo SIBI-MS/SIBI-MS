@@ -1,5 +1,5 @@
 <h3 align="center">
-  <h1 style="background-color:Green;">Welcome to Sibi's profile!</h1>
+  <h1 style="background-color:#008000;">Welcome to Sibi's profile!</h1>
   Welcome to Sibi's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
