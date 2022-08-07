@@ -14,12 +14,12 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/SIBI-MS?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-## 🔥 Streak stats
+## Streak stats
 
 
 <p align="center">
   <a href="https://skyline.github.com/SIBI-MS/2021">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="0xSebin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=0xSebin&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SIBI-MS's streak" src="https://skyline.github.com/SIBI-MS/2021"/>
   
 
 
