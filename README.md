@@ -4,7 +4,7 @@
 </h3>
 <!-- Typing SVG by SIBI-MS - https://github.com/0xSebin/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/SIBI-MS/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student;Self-taught%20Techie;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/SIBI-MS/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student;Self-taught%20Techie;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#008000&vCenter=true&size=22"></a>
 </p>
 <br/>
 <p align="center">
