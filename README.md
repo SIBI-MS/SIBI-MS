@@ -12,6 +12,8 @@
   <a href="https://gitlab.com/6th-sem-project1/lams-library-attendance-management-system" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab">
   </a>
+  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
   
 </p>
 
