@@ -6,12 +6,13 @@
 <h2>About Me</h2>
 <p>I'm a dedicated software engineer with a passion for innovation and continuous learning. My goal is to make a positive impact through technology.</p>
 <p>
+   <a href="https://www.linkedin.com/in/YourLinkedInProfile" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn">
+  </a>
    <a href="https://twitter.com/YourTwitterUsername" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter">
   </a>
-  <a href="https://www.linkedin.com/in/YourLinkedInProfile" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn">
-  </a>
+  
 </p>
 
 <h2>🛠️ Tech Stack</h2>
