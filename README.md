@@ -13,14 +13,6 @@
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn">
   </a>
 </p>
-<p>
-  <a href="https://github.com/SIBI-MS?tab=stars">
-    <img alt="Total Stars" src="https://img.shields.io/github/stars/SIBI-MS?style=for-the-badge">
-  </a>
-  <a href="https://github.com/SIBI-MS?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/SIBI-MS?style=for-the-badge">
-  </a>
-</p>
 
 <h2>🛠️ Tech Stack</h2>
 
