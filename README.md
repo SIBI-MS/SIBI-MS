@@ -6,42 +6,33 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/shields.io@1.4.0/dist/shields.css">
 </head>
 <body>
-  <header style="text-align: center;">
-    <h1>Sibi M S</h1>
+  <h1 style="text-align: center;">Sibi M S</h1>
 
-    <p>Passionate Software Engineer | Open Source Enthusiast | Lifelong Learner</p>
-  </header>
+  <p style="text-align: center;">Passionate Software Engineer | Open Source Enthusiast | Lifelong Learner</p>
 
-  <main>
-    <h2>About Me</h2>
-    <p>I'm a dedicated software engineer with a passion for innovation and continuous learning. My goal is to make a positive impact through technology. I have a strong track record of success in developing and delivering high-quality software products. I'm also an active contributor to the open source community, and I'm always looking for new ways to learn and grow.</p>
+  <h2>About Me</h2>
+  <p style="text-align: center;">I'm a dedicated software engineer with a passion for innovation and continuous learning. My goal is to make a positive impact through technology.</p>
 
-    <h2>Tech Stack</h2>
-    <ul>
-      <li>Programming Languages: Python, JavaScript, Java, C, HTML5, CSS3</li>
-      <li>Frameworks and Libraries: React, Node.js, Django</li>
-      <li>Databases and Tools: PostgreSQL, Git, VS Code</li>
-    </ul>
+  <h2>Tech Stack</h2>
+  <h3>Programming Languages</h3>
+  <ul style="text-align: center;">
+    <li><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"></a></li>
+    <li><a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"></a></li>
+    <li><a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white"></a></li>
+    <li><a href="https://www.cprogramming.com/"><img src="https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white"></a></li>
+    <li><a href="https://www.w3schools.com/html/"><img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a></li>
+    <li><a href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css"></a></li>
+  </ul>
 
-    <h2>Projects</h2>
-    <ul>
-      <li><a href="https://github.com/SIBI-MS/project-1">Project 1</a>: A web application developed using React and Node.js that allows users to manage their tasks.</li>
-      <li><a href="https://github.com/SIBI-MS/project-2">Project 2</a>: A machine learning model developed using Python that can predict customer churn.</li>
-    </ul>
+  <h3>Frameworks and Libraries</h3>
+  <ul style="text-align: center;">
+    <li><a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"></a></li>
+    <li><a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white"></a></li>
+    <li><a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white"></a></li>
+  </ul>
 
-    <h2>Skills</h2>
-    <ul>
-      <li>Software development</li>
-      <li>Machine learning</li>
-      <li>Cloud computing</li>
-      <li>Open source software</li>
-      <li>Agile development</li>
-    </ul>
-  </main>
-
-  <footer style="text-align: center;">
-    <a href="https://github.com/SIBI-MS"><img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github"></a>
-    <a href="https://linkedin.com/in/sibi-m-s"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin"></a>
-  </footer>
-</body>
-</html>
+  <h3>Databases and Tools</h3>
+  <ul style="text-align: center;">
+    <li><a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a></li>
+    <li><a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a></li>
+    <li><a href="https://code.visualstudio.com/"><img src="https://img.shields.
