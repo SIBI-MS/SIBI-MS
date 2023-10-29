@@ -2,7 +2,7 @@
 
 <p align="center">Passionate Software Engineer | Open Source Enthusiast | Lifelong Learner</p>
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center">About Me</h2>
 <p align="center">I'm a dedicated software engineer with a passion for innovation and continuous learning. My goal is to make a positive impact through technology.</p>
 
 <h2 align="center">🛠️ Tech Stack</h2>
