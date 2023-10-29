@@ -1,10 +1,10 @@
 <h1>Sibi M. S. </h1>
 
 
-<p>Passionate Software Engineer | Open Source Enthusiast | Lifelong Learner</p>
+<p>Integrated M.Sc Computer Science Student | Full Stack Developer | AI&ML | Open Source Enthusiast | Lifelong Learner</p>
 
 <h2>About Me</h2>
-<p>I'm a dedicated software engineer with a passion for innovation and continuous learning. My goal is to make a positive impact through technology.</p>
+<p>I'm a dedicated student currently pursuing an Integrated MSc in Computer Science with a specialization in Artificial Intelligence and Machine Learning. My educational journey has ignited a profound passion for technology, and I'm particularly enthusiastic about the realms of AI, ML, and deep learning.</p>
 <p>
    <a href="https://www.linkedin.com/in/sibi-m-s-610020205/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn">
