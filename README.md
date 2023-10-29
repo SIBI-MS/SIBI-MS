@@ -9,7 +9,9 @@
    <a href="https://www.linkedin.com/in/sibi-m-s-610020205/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn">
   </a>
-  
+  <a href="https://gitlab.com/6th-sem-project1/lams-library-attendance-management-system" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab">
+  </a>
   
 </p>
 
