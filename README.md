@@ -6,7 +6,7 @@
 <h2>About Me</h2>
 <p>I'm a dedicated student currently pursuing an Integrated MSc in Computer Science with a specialization in Artificial Intelligence and Machine Learning. My educational journey has ignited a profound passion for technology, and I'm particularly enthusiastic about the realms of AI, ML, and deep learning.</p>
 <p>
-   <a href="https://www.linkedin.com/in/sibi-m-s-610020205/" target="_blank">
+    <a href="https://www.linkedin.com/in/sibi-m-s-610020205/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn">
   </a>
   <a href="https://gitlab.com/6th-sem-project1/lams-library-attendance-management-system" target="_blank">
