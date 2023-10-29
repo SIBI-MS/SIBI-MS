@@ -25,21 +25,21 @@
   <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white">
 </p>
 
-<h3 align="center">Databases and Tools</h3>
-<p align="center">
+<h3 >Databases and Tools</h3>
+<p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/VS Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </p>
 
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 >📊 GitHub Stats</h2>
 
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api?username=SIBI-MS&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
-<p align="center">
+<p>
   <a href="https://github.com/SIBI-MS?tab=stars">
     <img alt="Total Stars" src="https://img.shields.io/github/stars/SIBI-MS?style=for-the-badge">
   </a>
