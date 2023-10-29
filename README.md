@@ -1,4 +1,12 @@
-<h1>Sibi M. S.</h1>
+<h1>Sibi M. S. 
+  <a href="https://twitter.com/YourTwitterUsername" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter">
+  </a>
+  <a href="https://www.linkedin.com/in/YourLinkedInProfile" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn">
+  </a>
+</h1>
+
 
 <p>Passionate Software Engineer | Open Source Enthusiast | Lifelong Learner</p>
 
