@@ -1,96 +1,84 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sibi M S - Software Engineer</title>
   <style>
     body {
       font-family: Arial, sans-serif;
       background-color: #f0f0f0;
-      text-align: center;
-      padding: 20px;
     }
-
     h1 {
+      text-align: center;
       font-size: 36px;
-      margin-top: 20px;
     }
-
     h2 {
+      text-align: center;
       font-size: 24px;
-      margin-top: 20px;
     }
-
     p {
+      text-align: center;
       font-size: 18px;
     }
-
-    .center {
+    .tech-stack {
       text-align: center;
     }
-
-    .profile {
-      background-color: #fff;
-      border-radius: 10px;
-      padding: 20px;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    }
-
-    .tech-stack {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 10px;
-    }
-
-    .tech-item {
-      display: inline-flex;
-      align-items: center;
-      font-size: 16px;
-      padding: 5px 10px;
-      background-color: #007ACC;
-      color: white;
-      border-radius: 5px;
+    .tech-stack img {
       margin: 5px;
+    }
+    .github-stats {
+      text-align: center;
     }
   </style>
 </head>
 <body>
-  <div class="center profile">
-    <h1>Sibi M S</h1>
-    <p>Passionate Software Engineer | Open Source Enthusiast | Lifelong Learner</p>
-    <h2>About Me</h2>
-    <p>I'm a dedicated software engineer with a passion for innovation and continuous learning. My goal is to make a positive impact through technology.</p>
-    <h2>🛠️ Tech Stack</h2>
-    <div class="tech-stack">
-      <div class="tech-item">Python</div>
-      <div class="tech-item">JavaScript</div>
-      <div class="tech-item">Java</div>
-      <div class="tech-item">SQL</div>
-      <div class="tech-item">HTML</div>
-      <div class="tech-item">C</div>
-      <div class="tech-item">CSS</div>
-    </div>
-    <h3>Frameworks and Libraries</h3>
-    <div class="tech-stack">
-      <div class="tech-item">React</div>
-      <div class="tech-item">Node.js</div>
-      <div class="tech-item">Django</div>
-    </div>
-    <h3>Databases and Tools</h3>
-    <div class="tech-stack">
-      <div class="tech-item">PostgreSQL</div>
-      <div class="tech-item">Git</div>
-      <div class="tech-item">VS Code</div>
-    </div>
-    <h2>📊 GitHub Stats</h2>
+  <h1>Sibi M S</h1>
+  <p>Passionate Software Engineer | Open Source Enthusiast | Lifelong Learner</p>
+
+  <h2>About Me</h2>
+  <p>I'm a dedicated software engineer with a passion for innovation and continuous learning. My goal is to make a positive impact through technology.</p>
+
+  <h2 class="tech-stack">🛠️ Tech Stack</h2>
+
+  <h3>Programming Languages</h3>
+  <p class="tech-stack">
+    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=sql&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black">
+    <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  </p>
+
+  <h3 class="tech-stack">Frameworks and Libraries</h3>
+  <p class="tech-stack">
+    <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
+    <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+  </p>
+
+  <h3 class="tech-stack">Databases and Tools</h3>
+  <p class="tech-stack">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/VS Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  </p>
+
+  <h2 class="github-stats">📊 GitHub Stats</h2>
+
+  <p class="github-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=SIBI-MS&show_icons=true&theme=radical" alt="GitHub Stats">
-    <div>
-      <a href="https://github.com/SIBI-MS?tab=stars">
-        <div class="tech-item">Total Stars</div>
-      </a>
-      <a href="https://github.com/SIBI-MS?tab=followers">
-        <div class="tech-item">Followers</div>
-      </a>
-    </div>
-  </div>
+  </p>
+
+  <p class="github-stats">
+    <a href="https://github.com/SIBI-MS?tab=stars">
+      <img alt="Total Stars" src="https://img.shields.io/github/stars/SIBI-MS?style=for-the-badge">
+    </a>
+    <a href="https://github.com/SIBI-MS?tab=followers">
+      <img alt="Followers" src="https://img.shields.io.github/followers/SIBI-MS?style=for-the-badge">
+    </a>
+  </p>
 </body>
 </html>
