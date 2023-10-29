@@ -2,7 +2,7 @@
 
 <p>Passionate Software Engineer | Open Source Enthusiast | Lifelong Learner</p>
 
-<h2>🚀 About Me</h2>
+<h2>About Me</h2>
 <p>I'm a dedicated software engineer with a passion for innovation and continuous learning. My goal is to make a positive impact through technology.</p>
 
 <h2>🛠️ Tech Stack</h2>
@@ -32,13 +32,6 @@
   <img src="https://img.shields.io/badge/VS Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </p>
 
-
-<h2 >📊 GitHub Stats</h2>
-
-<p >
-  <img src="https://github-readme-stats.vercel.app/api?username=SIBI-MS&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
 <p>
   <a href="https://github.com/SIBI-MS?tab=stars">
     <img alt="Total Stars" src="https://img.shields.io/github/stars/SIBI-MS?style=for-the-badge">
@@ -47,3 +40,11 @@
     <img alt="Followers" src="https://img.shields.io/github/followers/SIBI-MS?style=for-the-badge">
   </a>
 </p>
+
+<h2 >📊 GitHub Stats</h2>
+
+<p >
+  <img src="https://github-readme-stats.vercel.app/api?username=SIBI-MS&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+
