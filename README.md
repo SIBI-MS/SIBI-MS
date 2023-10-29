@@ -1,18 +1,18 @@
-<h1>Sibi M. S. 
-  <a href="https://twitter.com/YourTwitterUsername" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter">
-  </a>
-  <a href="https://www.linkedin.com/in/YourLinkedInProfile" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn">
-  </a>
-</h1>
+<h1>Sibi M. S. </h1>
 
 
 <p>Passionate Software Engineer | Open Source Enthusiast | Lifelong Learner</p>
 
 <h2>About Me</h2>
 <p>I'm a dedicated software engineer with a passion for innovation and continuous learning. My goal is to make a positive impact through technology.</p>
-
+<p>
+   <a href="https://twitter.com/YourTwitterUsername" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter">
+  </a>
+  <a href="https://www.linkedin.com/in/YourLinkedInProfile" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn">
+  </a>
+</p>
 <p>
   <a href="https://github.com/SIBI-MS?tab=stars">
     <img alt="Total Stars" src="https://img.shields.io/github/stars/SIBI-MS?style=for-the-badge">
