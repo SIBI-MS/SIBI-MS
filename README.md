@@ -1,14 +1,14 @@
-<h1 align="center">Sibi M S</h1>
+<h1>Sibi M. S.</h1>
 
-<p align="center">Passionate Software Engineer | Open Source Enthusiast | Lifelong Learner</p>
+<p>Passionate Software Engineer | Open Source Enthusiast | Lifelong Learner</p>
 
-<h2 align="center">🚀 About Me</h2>
-<p align="center">I'm a dedicated software engineer with a passion for innovation and continuous learning. My goal is to make a positive impact through technology.</p>
+<h2>🚀 About Me</h2>
+<p>I'm a dedicated software engineer with a passion for innovation and continuous learning. My goal is to make a positive impact through technology.</p>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2>🛠️ Tech Stack</h2>
 
-<h3 align="center">Programming Languages</h3>
-<p align="center">
+<h3>Programming Languages</h3>
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white">
