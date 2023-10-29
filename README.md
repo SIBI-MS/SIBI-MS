@@ -5,6 +5,15 @@
 <h2>About Me</h2>
 <p>I'm a dedicated software engineer with a passion for innovation and continuous learning. My goal is to make a positive impact through technology.</p>
 
+<p>
+  <a href="https://github.com/SIBI-MS?tab=stars">
+    <img alt="Total Stars" src="https://img.shields.io/github/stars/SIBI-MS?style=for-the-badge">
+  </a>
+  <a href="https://github.com/SIBI-MS?tab=followers">
+    <img alt="Followers" src="https://img.shields.io/github/followers/SIBI-MS?style=for-the-badge">
+  </a>
+</p>
+
 <h2>🛠️ Tech Stack</h2>
 
 <h3>Programming Languages</h3>
@@ -32,14 +41,7 @@
   <img src="https://img.shields.io/badge/VS Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </p>
 
-<p>
-  <a href="https://github.com/SIBI-MS?tab=stars">
-    <img alt="Total Stars" src="https://img.shields.io/github/stars/SIBI-MS?style=for-the-badge">
-  </a>
-  <a href="https://github.com/SIBI-MS?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/SIBI-MS?style=for-the-badge">
-  </a>
-</p>
+
 
 <h2 >📊 GitHub Stats</h2>
 
