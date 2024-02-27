@@ -53,7 +53,7 @@
 <p >
   <img src="https://github-readme-stats.vercel.app/api?username=SIBI-MS&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
-<h2>🔥 Additional GitHub Activity</h2>
+<h2> Additional GitHub Activity</h2>
 
 <ul>
   <li>Contributions in the last year: <strong>135</strong></li>
