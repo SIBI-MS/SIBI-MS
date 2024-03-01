@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sibi M. S.</title>
 </head>
 <body>
 
@@ -43,7 +42,8 @@
 
 <h3>Frameworks and Libraries</h3>
 <p>
-  
+  <img src="https://img.shields.io/badge/Seaborn-388E3C.svg?style=for-the-badge&logo=seaborn&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-3776AB.svg?style=for-the-badge&logo=matplotlib&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white">
 </p>
 
@@ -54,8 +54,8 @@
   <img src="https://img.shields.io/badge/VS Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white">
-  <img src="https://img.shields.io/badge/Seaborn-388E3C.svg?style=for-the-badge&logo=seaborn&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-3776AB.svg?style=for-the-badge&logo=matplotlib&logoColor=white">
+  
+  
 </p>
 
 
