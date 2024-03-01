@@ -38,12 +38,12 @@
 
 <h3>Frameworks and Libraries</h3>
 <p>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Seaborn-388E3C.svg?style=for-the-badge&logo=seaborn&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-3776AB.svg?style=for-the-badge&logo=matplotlib&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Seaborn-388E3C.svg?style=for-the-badge&logo=seaborn&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-3776AB.svg?style=for-the-badge&logo=matplotlib&logoColor=white">
 </p>
 
 <h3 >Databases and Tools</h3>
@@ -51,14 +51,8 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/VS Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <br>
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white">
-  
-  
 </p>
-
-
-
 <h2>📊 GitHub Stats</h2>
 
 <p >
