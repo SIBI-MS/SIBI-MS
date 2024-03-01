@@ -1,5 +1,13 @@
-<h1>Sibi M. S. </h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sibi M. S.</title>
+</head>
+<body>
 
+<h1>Sibi M. S.</h1>
 
 <p>Integrated M.Sc Computer Science Student | Full Stack Developer | AI&ML | Open Source Enthusiast | Lifelong Learner</p>
 
@@ -44,11 +52,15 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/VS Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white">
+  <img src="https://img.shields.io/badge/Seaborn-388E3C.svg?style=for-the-badge&logo=seaborn&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-3776AB.svg?style=for-the-badge&logo=matplotlib&logoColor=white">
 </p>
 
 
 
-<h2 >📊 GitHub Stats</h2>
+<h2>📊 GitHub Stats</h2>
 
 <p >
   <img src="https://github-readme-stats.vercel.app/api?username=SIBI-MS&show_icons=true&theme=radical" alt="GitHub Stats">
@@ -62,3 +74,5 @@
   <li>PRs merged: <strong>30</strong></li>
 </ul>
 
+</body>
+</html>
