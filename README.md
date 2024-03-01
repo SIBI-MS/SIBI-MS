@@ -53,6 +53,12 @@
   <img src="https://img.shields.io/badge/VS Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white">
 </p>
+<h3>Version Control</h3>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge
+</p>
+    
 <h2>📊 GitHub Stats</h2>
 
 <p >
