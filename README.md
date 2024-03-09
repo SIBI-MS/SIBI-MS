@@ -38,6 +38,7 @@
 
 <h3>Frameworks and Libraries</h3>
 <p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/scikit%20learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
