@@ -8,7 +8,7 @@
 
 <h1>Sibi M. S.</h1>
 
-<p>Integrated M.Sc Computer Science Student | Full Stack Developer | AI&ML | Open Source Enthusiast | Lifelong Learner</p>
+<p>Integrated M.Sc Computer Science Student | Full Stack Developer |  AI&ML | Open Source Enthusiast | Lifelong Learner</p>
 
 <h2>About Me</h2>
 <p>I'm a dedicated student currently pursuing an Integrated MSc in Computer Science with specialization in Artificial Intelligence and Machine Learning. My educational journey has ignited a profound passion for technology, and I'm particularly enthusiastic about the realms of AI, ML, and deep learning.</p>
