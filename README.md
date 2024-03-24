@@ -23,7 +23,7 @@
   
 </p>
 
-<h2>🛠️ Tech Stack</h2>
+<h2>🛠️ Tech Stack </h2>
 
 <h3>Programming Languages</h3>
 <p>
