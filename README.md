@@ -8,7 +8,7 @@
 
 <h1>Sibi M. S.</h1>
 
-<p>Engineer Intern @Yarnit.app | Intern @ICFOSS | LLM, ML (Python, RAG, LangChain, Crewai, LlamaIndex) | 🎓Doing a Master’s in Computer Science </p>
+<p>Engineer Intern @Yarnit.app | Intern @ICFOSS | ML, LLM, Python | Master’s in Computer Science</p>
 
 <h2>About Me</h2>
 <p>I'm a dedicated student currently pursuing an Integrated MSc in Computer Science with specialization in Artificial Intelligence and Machine Learning. My educational journey has ignited a profound passion for technology, and I'm particularly enthusiastic about the realms of AI, ML, and deep learning.</p>
