@@ -11,7 +11,8 @@
 <p>Research Associate at IISc Bangalore in the Centre for Brain Research</p>
 
 <h2>About Me</h2>
-<p>I'm a dedicated student currently pursuing an Integrated MSc in Computer Science with specialization in Artificial Intelligence and Machine Learning. My educational journey has ignited a profound passion for technology, and I'm particularly enthusiastic about the realms of AI, ML, and deep learning.</p>
+<p>   I am a Research Associate at the Centre for Brain Research (CBR), Indian Institute of Science (IISc) Bangalore. My research lies at the intersection of signal processing, image analysis, and AI-driven methods applied to human health.
+I work with neural data (EEG, BCI), neurophysiological signals, and omics datasets (RNA and other molecular profiles), focusing on biomedical and multimodal health data. My aim is to develop intelligent systems that support neuroscience and precision medicine by uncovering meaningful patterns from complex biological  </p>
 <p>
      <a href="https://www.linkedin.com/in/sibi-m-s-610020205/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn">
